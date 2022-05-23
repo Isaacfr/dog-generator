@@ -3,7 +3,7 @@
 <img src="https://github.com/Isaacfr/dog-generator/blob/main/dog-generator-website.jpg" alt="Dog Generator Website" width="100%"></img>
 
 <h2>How It's Made:</h2>
-<p>Tech used: HTML, CSS, Javascript</p>
+<p>Tech used: HTML, CSS, SCSS, Javascript</p>
 <p>I based this project around utilizing an API. I wanted to use all my skills to create a project that was fun, responsive and stylish.</p>
 
 <h2>Lessons Learned:</h2>
