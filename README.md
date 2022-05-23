@@ -1,6 +1,6 @@
 <h1>Dog Generator</h1>
 <p>This is a dog generator utilizing the <a href="https://dog.ceo/dog-api/">Dog CEO API</a>. It generates different information based on the dog breed selected by the user.</p>
-![Dog Generator Website](https://github.com/Isaacfr/dog-generator/blob/main/dog-generator-website.jpg?raw=true)
+<img src="https://github.com/Isaacfr/dog-generator/blob/main/dog-generator-website.jpg" alt="Dog Generator Website" width="100%"></img>
 
 <h2>How It's Made:</h2>
 <p>Tech used: HTML, CSS, Javascript</p>
